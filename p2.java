@@ -1,6 +1,6 @@
 public class p2{
     public static void main(String[] args) {
-        int a = 12, b = 5, x = 10, n = 5;
+        int a = 72, b = 2,c =a%b, x = 10, n = 5;
         boolean f = true;
 
         // 1. Arithmetic & 2. Unary
@@ -18,5 +18,9 @@ public class p2{
         // 7. Ternary & 8. Assignment
         System.out.println("Ternary: " + ((a > b) ? "Yes" : "No"));
         System.out.println("Assign: " + (x += 5) + " " + (x -= 2) + " " + (x *= 2));
+        //  testing 
+        System.out.println(!(a>b)&&b>c);
+        System.out.println(~a);
+        System.out.println(a<<b);
     }
 }
