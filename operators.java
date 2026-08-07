@@ -1,4 +1,4 @@
-public class p2{
+public class operators{
     public static void main(String[] args) {
         int a = 72, b = 2,c =a%b, x = 10, n = 5;
         boolean f = true;
