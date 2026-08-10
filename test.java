@@ -1,6 +1,6 @@
 public class test {
     public static void main(String[] args) {
-        int a,b,c,d,e,f,g,h;
+        int a;//b,c,d,e,f,g,h;
          a = -10 ;/* 
          b = -20 ;
         System.out.println("a: " + a);
