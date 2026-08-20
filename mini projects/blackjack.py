@@ -97,3 +97,4 @@ while should_play:
         should_play = False
         print("Good bye :)-")
         print("***************************[ EXIT ]***************************")
+        print("***************************[ THANK YOU ]***************************")
