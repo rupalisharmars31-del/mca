@@ -1,8 +1,7 @@
-package dsa;
 
 import java.util.Arrays;
 
-public class QuickSort {
+public class quicksort {
 
     public static void sort(int[] a, int low, int high) {
         if (low < high) {

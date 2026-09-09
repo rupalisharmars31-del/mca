@@ -1,5 +1,3 @@
-package dsa;
-
 public class mergesort {
 
     public static void merge(int arr[], int l, int m, int r) {
